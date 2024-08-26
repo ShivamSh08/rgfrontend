@@ -44,7 +44,7 @@ const Header = () => {
             </div>
 
             <div className="col-sm-5">
-                <b>   <i> Creating Happy Home Owners Everyday </i> </b>
+                <b>   <i> Destination for Happy Home Owners </i> </b>
             </div>
 
             <div className="col-sm-3">
